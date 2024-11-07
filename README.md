@@ -1,28 +1,19 @@
-# HappyDiwali
-Happy Diwali Mini Project
-This project is a simple web-based celebration page for Diwali, the Festival of Lights. It includes a festive surprise with music, visuals, and fireworks effects.
+Happy Diwali Mini Project 🎉
+This is a simple web-based mini project to celebrate Diwali, the Festival of Lights, with an interactive surprise.
 
 Project Overview
-The project consists of two main HTML files:
+The project consists of two main HTML pages:
 
-home.html: The landing page with a button to reveal the Diwali surprise.
-surprise.html: The Diwali surprise page featuring a festive message, an image, and audio.
-When the user clicks the "Click for Surprise" button on home.html, they are taken to surprise.html, which includes fireworks animations, an image of Diwali, and an audio clip for festive ambiance.
-
-Getting Started
-Prerequisites
-Ensure you have Python installed to serve the HTML files locally.
-Place the required files (home.html, surprise.html, styles.css, script.js, diwali.png, and jethalal.mp3) in the same directory.
-Running the Project Locally
-Open a terminal and navigate to the folder containing the project files.
-
-Run the following command to start a local server on port 8000:
-
+home.html: The landing page with a button that leads to a Diwali surprise.
+surprise.html: A celebration page with a festive message, fireworks, and background music.
+How to Run
+Make sure you have Python installed on your computer.
+Place all project files (home.html, surprise.html, styles.css, script.js, diwali.png, jethalal.mp3) in the same folder.
+Open a terminal, navigate to the project folder, and run the following command:
 bash
 Copy code
 python -m http.server 8000
-Open a web browser and go to:
-
+Open your browser and go to:
 bash
 Copy code
 http://localhost:8000/home.html
