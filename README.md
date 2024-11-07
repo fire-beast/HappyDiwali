@@ -8,8 +8,8 @@ Place all project files (home.html, surprise.html, styles.css, script.js, diwali
 
 Open a terminal, navigate to the project folder, and run the following command:
 
-python -m http.server 8000
+# python -m http.server 8000
 
 Open your browser and go to:
 
-http://localhost:8000/home.html
+# localhost:8000/home.html
